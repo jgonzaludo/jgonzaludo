@@ -1,4 +1,4 @@
-# Hi 👋 I'm Joseph Gonzaludo
+# Hi there, I'm Joe
 
 - CS major, Entrepreneurship & Management and Writing Seminars minors @ **Johns Hopkins University** (May 2027 grad)
 - Quantitative Developer Intern @ **Balyasny Asset Management** (Summer 2026)
